@@ -8,4 +8,4 @@ Category of Education.
 Team: | Aminu M. Bulangu https://twitter.com/blg_guy |
 ClaraOdiri https://twitter.com/is_onyinye |
 Olawale https://twitter.com/wale_io |
-Simeon https://twitter.com/ |
+Simeon https://twitter.com/TechviberNG |
