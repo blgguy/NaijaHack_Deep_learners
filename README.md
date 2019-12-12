@@ -5,7 +5,7 @@ My project is a website that connects students to private tutors. The students s
 
 Category of Education.
 
-| Aminu M. Bulangu https://twitter.com/blg_guy |
+Team: | Aminu M. Bulangu https://twitter.com/blg_guy |
 ClaraOdiri https://twitter.com/is_onyinye |
 Olawale https://twitter.com/wale_io |
 Simeon https://twitter.com/ |
