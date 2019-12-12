@@ -8,4 +8,4 @@ Category of Education.
 | Aminu M. Bulangu https://twitter.com/blg_guy |
 ClaraOdiri https://twitter.com/is_onyinye |
 Olawale https://twitter.com/wale_io |
-Suhailu https://twitter.com/s_suhailu |
+Simeon https://twitter.com/ |
