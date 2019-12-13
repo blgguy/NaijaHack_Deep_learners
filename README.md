@@ -1,14 +1,11 @@
 # NaijaHack_Deep_learners
-## This  is a NaijaHack Team project 
+It is a NaijaHack team project 
 
-Our project is a website that connects students to private tutors. 
+My project is a website that connects students to private tutors. The students should be able to choose if their private lesson tutors
 
-## Category &rarr; Education 
+Category of Education.
 
-1. Team Members: Aminu M. Bulangu &rarr; https://twitter.com/blg_guy 
-2. ClaraOdiri &rarr; https://twitter.com/is_onyinye 
-3. Olawale &rarr; https://twitter.com/wale_io 
-4. Simeon &rarr; https://twitter.com/TechviberNG 
-
-
-### .....More updates coming!
+Team: | Aminu M. Bulangu https://twitter.com/blg_guy |
+ClaraOdiri https://twitter.com/is_onyinye |
+Olawale https://twitter.com/wale_io |
+Simeon https://twitter.com/TechviberNG |
