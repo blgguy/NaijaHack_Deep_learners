@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+		<title>Sign Up on Deep Learners</title>
+		<link
+			rel="stylesheet"
+			href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+			integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+			crossorigin="anonymous"
+		/>
+
+		<link
+			href="https://fonts.googleapis.com/css?family=Lato:400,700&display=swap"
+			rel="stylesheet"
+		/>
+
+		<link rel="stylesheet" href="css/styles.css" />
+	</head>
+	<body class="account">
+		<nav class="navigation">
+			<ul class="navigation__list">
+
+                <li class="navigation__item">
+					<a href="index.html" class="navigation__link">
+						<svg class="icon icon-home">
+							<use xlink:href="images/sprite.svg#icon-home1"></use>
+						</svg>
+						Home</a>
+                </li>
+                
+				<li class="navigation__item">
+					<a href="login.html" class="navigation__link">Sign in</a>
+				</li>
+				<li class="navigation__item">
+					<a href="#" class="navigation__link">Become a tutor</a>
+				</li>
+			</ul>
+		</nav> 
+
+		<!-- SIGN UP FORM -->
+
+		<div class="container">
+			<form class="form">
+				<fieldset>
+					<h1 class="form__heading">
+                         great to have you 
+					</h1>
+
+					<div class="form-group">
+						<label class="form__label" for="name">First name</label>
+						<input
+							type="text"
+							class="form-control"
+							name="name"
+							id="name"
+							placeholder="Enter your first name"
+							required
+						/>
+					</div>
+					<div class="form-group">
+						<label class="form__label" for="name">Surname name</label>
+						<input
+							type="text"
+							class="form-control"
+							name="name"
+							id="name"
+							placeholder="Enter your surname"
+							required
+						/>
+					</div>
+
+					<div class="form-group">
+						<label class="form__label" for="email">Email address</label>
+						<input
+							type="email"
+							class="form-control"
+							id="email"
+							name="email"
+							aria-describedby="emailHelp"
+							placeholder="Enter your email address"
+							required
+						/>
+					</div>
+
+					<div class="form-group">
+						<label class="form__label" for="password">Password</label>
+						<input
+							type="password"
+							class="form-control"
+							id="password"
+							name="password"
+							placeholder="Enter your password"
+							required
+						/>
+					</div>
+
+					<div class="form__buttons">
+						<button type="submit" class="form__link">Get started</button>
+
+						<a href="#" class="form__sign-in">Sign up with google</a>
+					</div>
+				</fieldset>
+			</form>
+		</div>
+
+		<script
+			src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+			integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+			crossorigin="anonymous"
+		></script>
+	</body>
+</html>
