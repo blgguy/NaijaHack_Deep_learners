@@ -3,12 +3,13 @@
 
 Our project is a website that connects students to private tutors. 
 
-## Category &rarr; Education 
+## Category &rarr; Education  
 
-1. Team Members: Aminu M. Bulangu &rarr; https://twitter.com/blg_guy 
-2. ClaraOdiri &rarr; https://twitter.com/is_onyinye 
-3. Olawale &rarr; https://twitter.com/wale_io 
-4. Simeon &rarr; https://twitter.com/TechviberNG 
+##  Team Members:
+1.  Aminu M. Bulangu &rarr; https://twitter.com/blg_guy 
+3. ClaraOdiri &rarr; https://twitter.com/is_onyinye 
+4. Olawale &rarr; https://twitter.com/wale_io 
+5. Simeon &rarr; https://twitter.com/TechviberNG 
 
 
 ### .....More updates coming!
